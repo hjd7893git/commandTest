@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/resource/log4j.properties" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/ct/TaskNC.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/ct/TestAllCommand.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/ct/TestNC.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/send/SocketPool.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/util/UnionUtil.java" charset="GBK" />
+  </component>
+</project>
